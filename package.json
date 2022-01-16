@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ansi-regex": "^6.0.1",
-    "bedrock-protocol": "^3.5.1"
+    "bedrock-protocol": "^3.8.0"
   }
 }
