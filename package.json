@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bedrock-protocol": "^3.10.0"
+    "bedrock-protocol": "^3.14.0"
   }
 }
